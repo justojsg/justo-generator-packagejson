@@ -1,6 +1,6 @@
 {
   "name": "justo-generator-packagejson",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Generator for the package.json file.",
   "homepage": "http://www.justojs.org",
   "author": {
@@ -29,7 +29,7 @@
     "url": "https://github.com/justojsg/justo-generator-packagejson.git"
   },
   "engines": {
-    "node": ">= 4.0.0",
+    "node": ">= 5.0.0",
     "npm": ">= 3.0.0"
   },
   "dependencies": {

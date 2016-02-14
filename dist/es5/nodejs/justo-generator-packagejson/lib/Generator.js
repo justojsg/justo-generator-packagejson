@@ -15,6 +15,15 @@
 
 
 
+
+
+
+
+
+
+
+
+
     {
       _get(Object.getPrototypeOf(_class.prototype), "init", this).call(this);} }, { key: "fin", value: function fin() 
 
@@ -37,4 +46,4 @@
 
 
     answers) {
-      this.copy("_package.json", "package.json");} }]);return _class;}(_justoGenerator.Generator);exports.default = _class;
+      this.copy("_package.json", "package.json");} }, { key: "help", get: function get() {return { desc: "Generate the package.json file." };} }]);return _class;}(_justoGenerator.Generator);exports.default = _class;
