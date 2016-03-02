@@ -1,6 +1,6 @@
 {
   "name": "justo-generator-packagejson",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Generator for the package.json file.",
   "homepage": "http://www.justojs.org",
   "author": {
